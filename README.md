@@ -22,7 +22,7 @@ Follow these steps to set up and run the Music Recommendation System on your loc
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/Music-Recommendation-System.git
+    git clone https://github.com/Estherkarl/Music-Recommendation-System.git
     cd Music-Recommendation-System
     ```
 
